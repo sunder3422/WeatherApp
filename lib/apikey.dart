@@ -1,5 +1,5 @@
 class APIKey {
   static getApiKey() {
-    return "c08dbe4a3076c89cffccbaf5196704b5";
+    return "Enter api key here";
   }
 }
