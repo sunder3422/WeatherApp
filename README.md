@@ -1,16 +1,13 @@
-# flutter_application_1
+# Weather appp application
+Fist App using Flutter
+Main Page:-
+![finalScreen](https://user-images.githubusercontent.com/36584153/161212138-d5b11c09-279c-4a30-8023-a71928a08d66.PNG)
 
-A new Flutter project.
 
-## Getting Started
+Loading page:-
 
-This project is a starting point for a Flutter application.
+![loading](https://user-images.githubusercontent.com/36584153/161212082-98fb509a-ca5a-4d2d-8c55-db9b46a9c16e.PNG)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How:-
+Api used: Open weather Free api for colleting data
+Divided project is different widgets
